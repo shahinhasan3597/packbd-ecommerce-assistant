@@ -1,16 +1,16 @@
 {
-  "name": "PackBD Commerce Assistant",
-  "slug": "packbd-commerce-assistant", 
+  "name": "PackBD Ecommerce Assistant",
+  "slug": "packbd-ecommerce-assistant",
   "version": "1.0.2",
-  "download_url": "https://github.com/shahinhasan3597/packbd-updates/releases/download/v1.0.1/packbd-commerce-assistant.zip",
-  "author": "PackBD",
+  "download_url": "https://github.com/shahinhasan3597/packbd-updates/releases/download/v1.0.2/packbd-ecommerce-assistant.zip",
+  "author": "shahin-hasan",
   "homepage": "https://packbd.com",
   "requires": "5.0",
   "tested": "6.5",
   "requires_php": "7.4",
-  "last_updated": "2026-10-31 12:00:00",
+  "last_updated": "2026-11-02 12:00:00",
   "sections": {
-    "description": "Complete WooCommerce solution...",
-    "changelog": "<h4>1.0.2</h4><ul><li>Renamed plugin to PackBD Commerce Assistant.</li></ul>"
+    "description": "Complete WooCommerce solution for BD Courier integration, fraud checking, invoice printing, and order management.",
+    "changelog": "<h4>1.0.2</h4><ul><li>Renamed plugin to PackBD Ecommerce Assistant.</li></ul>"
   }
 }
