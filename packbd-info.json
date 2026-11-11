@@ -10,7 +10,7 @@
   "requires_php": "7.4",
   "last_updated": "2026-11-02 12:00:00",
   "sections": {
-    "description": "Complete WooCommerce solution for BD Courier integration, fraud checking, invoice printing, and order management.",
+    "description": "Complete WooCommerce solution for PackBD Ecommerce Assistant integration, fraud checking, invoice printing, and order management.",
     "changelog": "<h4>1.0.2</h4><ul><li>Renamed plugin to PackBD Ecommerce Assistant.</li></ul>"
   }
 }
