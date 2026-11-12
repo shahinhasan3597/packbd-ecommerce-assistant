@@ -2,7 +2,7 @@
   "name": "PackBD Ecommerce Assistant",
   "slug": "packbd-ecommerce-assistant",
   "version": "1.0.5",
-  "download_url": "https://github.com/shahinhasan3597/packbd-ecommerce-assistant/releases/download/1.0.5/packbd-ecommerce.-assistant.zip",
+  "download_url": "https://github.com/shahinhasan3597/packbd-ecommerce-assistant/releases/download/1.0.5/packbd-ecommerce-assistant.zip",
   "author": "shahin-hasan",
   "homepage": "https://packbd.com",
   "requires": "5.0",
@@ -11,6 +11,6 @@
   "last_updated": "2026-11-02 12:00:00",
   "sections": {
     "description": "Complete WooCommerce solution for PackBD Ecommerce Assistant integration, fraud checking, invoice printing, and order management.",
-    "changelog": "<h4>1.0.2</h4><ul><li>Renamed plugin to PackBD Ecommerce Assistant.</li></ul>"
+    "changelog": "<h4>1.0.5</h4><ul><li>Updated plugin files and fixed bugs.</li></ul>"
   }
 }
